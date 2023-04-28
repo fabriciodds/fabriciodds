@@ -56,9 +56,6 @@ Here are some ideas to get you started:
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciodds&layout=compact&hide_border=true&title_color=800000&text_color=800000&bg_color=0d1117" /> 
 </div> 
  
- <!-- gráfico das contribuições --> 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=fabriciodds&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
 <!-- badges, com trofeu --> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fabriciodds&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -74,17 +71,10 @@ Here are some ideas to get you started:
  
  <!-- minhas habilidades -->
  ### Main skills:
-  ![Python])https://img.shields.io/github/pipenv/locked/python-version/fabriciodds/fabriciodds)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 <!-- estudando no momento -->
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; 
+
 
 
 <div align="center">
