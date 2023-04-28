@@ -1,4 +1,4 @@
-## Oi eu sou a Fabrício Domingos, técnico em Manutenção e Suporte em Informática e estudante de Engenharia de Computação, e apaixonado por Python !
+## Olá, eu sou a Fabrício Domingos, técnico em Manutenção e Suporte em Informática e estudante de Engenharia de Computação, e apaixonado por Python !
 <div align="center">
   <a href="https://github.com/fabriciodds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciodds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
